@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8082783997",
+    "firebase_url": "https://peeps-e8d67.firebaseio.com",
+    "project_id": "peeps-e8d67",
+    "storage_bucket": "peeps-e8d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8082783997:android:228d0247b1025406bac894",
+        "android_client_info": {
+          "package_name": "com.example.peeps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8082783997-lnun07jkqocdrthq8rmmvfi981jqppje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOgbYeDa-OffDG_9m2t7XzACIlO1P3Ob4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8082783997-lnun07jkqocdrthq8rmmvfi981jqppje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
